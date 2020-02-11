@@ -17,5 +17,3 @@
   * SG3: Once you have finished SG2, add new new button called `reset` that resets the timer to 0:00:00 and then pressing the start button again will start the timer from 0.
   * SG4: Finally, if you have completed all the stretch goals, spend some time styling your timer and buttons.
   
-  
-  https://maheremad.github.io/Digital-Timer-GSG/.
